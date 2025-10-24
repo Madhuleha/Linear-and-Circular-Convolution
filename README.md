@@ -8,7 +8,7 @@
 PC installed with SCILAB. 
 
 ## PROGRAM (Linear Convolution): 
-... 
+```
 // Linear Convolution
 // --- Linear Convolution using FFT ---
 clc;
@@ -49,10 +49,10 @@ plot2d3(n, y_lin);
 xtitle("Linear Convolution Result y(n)", "n", "Amplitude");
 
 // Linear Convolution
-...
+```
 
 ## PROGRAM (Circular Convolution): 
-...
+```
 // Circular Convolution
 
 clc;
@@ -93,7 +93,7 @@ plot2d3(n, y_circ);            // circular convolution result
 xtitle("Circular Convolution Result", "n", "Amplitude");
 
 // Circular Convolution
-...
+```
 
 ## OUTPUT (Linear Convolution): 
 ![WhatsApp Image 2025-10-24 at 13 56 06_9096ed6a](https://github.com/user-attachments/assets/d0abd2bc-9916-48ae-9493-3f21f53a3406)
