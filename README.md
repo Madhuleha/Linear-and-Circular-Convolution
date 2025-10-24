@@ -8,7 +8,7 @@
 PC installed with SCILAB. 
 
 ## PROGRAM (Linear Convolution): 
-...
+... 
 // Linear Convolution
 // --- Linear Convolution using FFT ---
 clc;
